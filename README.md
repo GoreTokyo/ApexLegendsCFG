@@ -1,7 +1,7 @@
 # Apex Legends autoexec.cfg
 
 **Author:** higurashi  
-**Version:** 1.0.1  
+**Version:** 1.0.2  
 **Purpose:** FPS向上・視認性改善・軽量化  
 
 このリポジトリは、Apex Legends 用の `autoexec.cfg` です。FPS向上、視認性改善、軽量化を目的とした設定をまとめています。  
